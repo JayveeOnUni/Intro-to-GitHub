@@ -14,3 +14,6 @@ from my local computer.
  
 ## Author
 John Venedick Hermoso - BS Computer Science
+
+## Course
+Intro to Github by CM Mansueto
